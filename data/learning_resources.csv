@@ -1,0 +1,25 @@
+Skill,Category,Resource_Title,Resource_Type,Platform_Or_Source,Key_Topics_To_Cover,Link,Difficulty_Level
+Python,Programming,Python For Beginners,Interactive Tutorial,Official Python Tutorial,"Variables, Data Types, Loops, Functions, Modules",https://docs.python.org/3/tutorial/,Beginner
+Python,Programming,Automate the Boring Stuff with Python,Online Book / Course,Al Sweigart,"Scripting, File Handling, Web Scraping, Regular Expressions",https://automatetheboringstuff.com/,Beginner
+SQL,Database,SQL Tutorial & Practice,Interactive Tutorial,W3Schools / SQLZoo,"SELECT, WHERE, JOIN, GROUP BY, Aggregate Functions, Subqueries",https://www.w3schools.com/sql/,Beginner
+SQL,Database,Mode Analytics SQL Tutorial,Guide / Practice,Mode Analytics,"Intermediate SQL, Window Functions, Performance Tuning",https://mode.com/sql-tutorial/,Intermediate
+Excel,Analytics,Excel Skills for Business,Video / Practical,Excel Easy / YouTube,"Formulas, VLOOKUP, XLOOKUP, Pivot Tables, Data Visualization",https://www.excel-easy.com/,Beginner
+Statistics,Mathematics & Analytics,Introductory Statistics for Data Science,Course / Notes,Khan Academy,"Mean, Median, Standard Deviation, Probability, Distributions, Hypothesis Testing",https://www.khanacademy.org/math/statistics-probability,Beginner
+Data Analysis,Analytics,Python Data Analysis with Pandas,Documentation / Tutorial,Pandas Documentation,"Series, DataFrames, Data Cleaning, Grouping, Aggregation",https://pandas.pydata.org/docs/getting_started/,Intermediate
+Machine Learning,Artificial Intelligence,Scikit-Learn Machine Learning Guide,Documentation / Examples,Scikit-Learn Official,"Classification, Regression, Train-Test Split, Metrics, Cross Validation",https://scikit-learn.org/stable/user_guide.html,Intermediate
+HTML,Web Development,HTML Introduction & Building Blocks,Interactive Tutorial,MDN Web Docs,"Document Structure, Semantic Tags, Forms, Inputs, Tables",https://developer.mozilla.org/en-US/docs/Learn/HTML,Beginner
+CSS,Web Development,CSS Styling & Responsive Design,Interactive Tutorial,MDN Web Docs,"Selectors, Box Model, Flexbox, CSS Grid, Media Queries",https://developer.mozilla.org/en-US/docs/Learn/CSS,Beginner
+JavaScript,Web Development,Modern JavaScript Basics,Interactive Tutorial,JavaScript.info,"Variables, Functions, DOM Manipulation, Event Listeners, Promises",https://javascript.info/,Beginner
+C++,Programming,C++ Programming Language Guide,Tutorial / Reference,LearnCpp.com,"Pointers, Memory Management, References, STL Containers, Algorithms",https://www.learncpp.com/,Intermediate
+Java,Programming,Java Core Fundamentals,Tutorial,Oracle Java Tutorials,"Classes, Objects, Inheritance, Polymorphism, Collections Framework",https://docs.oracle.com/javase/tutorial/,Intermediate
+Data Structures,Computer Science Core,Data Structures & Algorithms in Python/C++,Practice / Guide,GeeksforGeeks,"Arrays, Linked Lists, Stacks, Queues, Trees, Searching, Sorting",https://www.geeksforgeeks.org/data-structures/,Intermediate
+Git,Tools & DevOps,Git Version Control Handbook,Cheat Sheet / Guide,GitHub Docs,"git init, commit, push, pull, branch, merge, pull requests",https://docs.github.com/en/get-started,Beginner
+OOP,Software Engineering,Object-Oriented Programming Principles,Course / Notes,Educative / GeeksforGeeks,"Encapsulation, Abstraction, Inheritance, Polymorphism, SOLID Basics",https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/,Intermediate
+Pandas,Analytics,Pandas 10-Minute Walkthrough,Documentation,Pandas Official,"Data Loading, Filtering, Feature Engineering, Aggregation",https://pandas.pydata.org/docs/user_guide/10min.html,Beginner
+NumPy,Analytics,NumPy Numerical Computing,Documentation,NumPy Official,"N-D Arrays, Vectorization, Broadcasting, Mathematical Operations",https://numpy.org/doc/stable/user/quickstart.html,Beginner
+Linux,Operating Systems,Linux Command Line Basics,Tutorial,Linux Journey,"Shell Navigation, File Permissions, Package Management, Bash Basics",https://linuxjourney.com/,Beginner
+React,Web Development,React Quick Start,Documentation / Tutorial,React Official Docs,"Components, Props, State, Hooks (useState, useEffect), JSX",https://react.dev/learn,Intermediate
+Database Management,Database,Database Management Systems Concepts,Notes / Reference,GeeksforGeeks,"ER Diagrams, Normalization (1NF, 2NF, 3NF, BCNF), Transactions, ACID",https://www.geeksforgeeks.org/dbms/,Intermediate
+Cloud Basics,Cloud & Infrastructure,Cloud Computing Fundamentals,Guide,AWS / Azure Learning,"IaaS, PaaS, SaaS, Virtual Machines, Cloud Storage, Security Basics",https://aws.amazon.com/what-is-cloud-computing/,Beginner
+Networking,Computer Science Core,Computer Networking Fundamentals,Reference,GeeksforGeeks,"OSI Model, TCP/IP, DNS, HTTP/HTTPS, IP Addressing, Routing",https://www.geeksforgeeks.org/computer-network-tutorials/,Beginner
+Backup Recovery,Database,Database Backup and Recovery Basics,Tutorial,MySQL Documentation,"Full Backups, Incremental Backups, Point-in-time Recovery, Replication",https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html,Intermediate

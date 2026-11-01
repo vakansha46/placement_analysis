@@ -1,0 +1,75 @@
+{
+    "best_model_name": "Logistic Regression",
+    "evaluation_results": {
+        "Logistic Regression": {
+            "Accuracy": 0.9143,
+            "Precision": 0.9307,
+            "Recall": 0.9495,
+            "F1_Score": 0.94,
+            "Confusion_Matrix": [
+                [
+                    34,
+                    7
+                ],
+                [
+                    5,
+                    94
+                ]
+            ]
+        },
+        "Decision Tree": {
+            "Accuracy": 0.85,
+            "Precision": 0.89,
+            "Recall": 0.899,
+            "F1_Score": 0.8945,
+            "Confusion_Matrix": [
+                [
+                    30,
+                    11
+                ],
+                [
+                    10,
+                    89
+                ]
+            ]
+        },
+        "Random Forest": {
+            "Accuracy": 0.8786,
+            "Precision": 0.8942,
+            "Recall": 0.9394,
+            "F1_Score": 0.9163,
+            "Confusion_Matrix": [
+                [
+                    30,
+                    11
+                ],
+                [
+                    6,
+                    93
+                ]
+            ]
+        }
+    },
+    "top_feature_importances": {
+        "Backlogs": 0.1675,
+        "CGPA": 0.1059,
+        "Internships": 0.0853,
+        "HTML_CSS": 0.0771,
+        "Aptitude_Score": 0.0768,
+        "Excel": 0.068,
+        "Communication_Score": 0.061,
+        "Java": 0.0595,
+        "JavaScript": 0.0458,
+        "Data_Analysis": 0.0433,
+        "SQL": 0.0408,
+        "Projects": 0.0381,
+        "Cpp": 0.0351,
+        "ML_Knowledge": 0.0348,
+        "Certifications": 0.0299,
+        "Tenth_Percentage": 0.0131,
+        "Twelfth_Percentage": 0.0095,
+        "Python": 0.0086
+    },
+    "train_samples": 560,
+    "test_samples": 140
+}

@@ -1,0 +1,9 @@
+Role_ID,Role_Name,Category,Required_Skills,Min_CGPA,Sample_Companies,Description
+R1,Data Analyst,Data & Analytics,"Python, SQL, Excel, Statistics, Data Analysis",6.5,"Company A (Analytics), TechNova, InsightCorp","Analyzes datasets, creates dashboards, extracts business insights using SQL, Excel, and Python."
+R2,Python Developer,Software Engineering,"Python, SQL, OOP, Git, Data Structures",6.5,"CodeCraft, PySolutions, CloudMinds","Develops backend logic, automates tasks, builds REST APIs, and works with relational databases."
+R3,Web Developer,Web Development,"HTML, CSS, JavaScript, Git, React",6.0,"WebSphere, DigitalPulse, CreativeDevs","Builds responsive user interfaces, interactive frontends, and integrates frontend with APIs."
+R4,Machine Learning Intern,AI & ML,"Python, Pandas, NumPy, Machine Learning, Statistics",7.0,"Global Analytics, MindAI, FutureTech","Assists in data preprocessing, exploratory data analysis, feature engineering, and model evaluation."
+R5,Software Developer,Software Engineering,"C++, Java, OOP, Data Structures, SQL",7.0,"Apex Systems, SoftLogic, EnterpriseCore","Designs robust algorithms, implements scalable software modules, and solves algorithmic challenges."
+R6,Full Stack Developer,Web Development,"HTML, CSS, JavaScript, Python, SQL, Git",7.0,"NextGen Labs, OmniStack, WebForge","Develops end-to-end web applications covering both UI frontend and database-backed server APIs."
+R7,Database Administrator Trainee,Database Management,"SQL, Database Management, Excel, Linux, Backup Recovery",6.0,"DataVault, SecureData, ServerHub","Maintains relational database systems, writes complex queries, and ensures data integrity."
+R8,DevOps / Cloud Trainee,Cloud & Infrastructure,"Linux, Git, Python, Cloud Basics, Networking",6.5,"CloudSprint, InfraTech, ScaleOps","Assists with deployment pipelines, version control workflows, system monitoring, and cloud hosting."
